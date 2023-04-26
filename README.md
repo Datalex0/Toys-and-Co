@@ -21,6 +21,7 @@
   
 ```    
 Vous trouverez :  
+
  -   Les Requêtes SQL effectuées   
  -   Les Visualisations Power BI et tableau  
  -   La présentation au format pdf
