@@ -13,8 +13,8 @@ Tâches :
 <ins>Compétences et outils utilisés :</ins>
 * :briefcase: Méthodes agiles
 * :page_facing_up: Requêtes :
- * SQL
- * MySQL
+  * SQL
+  * MySQL
 * :bar_chart: Visualisations : 
- * Tableau
- * Microsoft Power BI
+  * Tableau
+  * Microsoft Power BI
