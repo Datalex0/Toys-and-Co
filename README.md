@@ -21,6 +21,6 @@
   
     
 >Vous trouverez :
->     *  Les **requêtes SQL** effectuées 
->     *  Les **Visualisations** Power BI et tableau
+>     *  Les **requêtes SQL** effectuées   
+>     *  Les **Visualisations** Power BI et tableau  
 >     *  La présentation au format pdf
