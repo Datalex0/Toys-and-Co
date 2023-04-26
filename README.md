@@ -1,10 +1,10 @@
 # Toys and Co
 
-Réalisation d'un Tableau de Bord interactif pour l'entreprise fictive Toys&Co
+## Réalisation d'un Tableau de Bord interactif pour l'entreprise fictive Toys&Co
 
-Durée du projet : 3 semaines
+<ins>Durée du projet :</ins> 3 semaines
 
-Tâches :
+<ins>Tâches :</ins>
 1. Exploitation d'une base de données avec MySQL
 2. Utilisations de jointures, de vues et de sous-requêtes en SQL
 3. Affichage du tableau de bord grâce à Microsoft Power BI et Tableau
