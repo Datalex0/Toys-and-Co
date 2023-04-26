@@ -29,4 +29,4 @@
   
  -   Les Requêtes SQL effectuées   
  -   Les Visualisations Power BI et tableau  
- -   [La présentation au format pdf](https://github.com/Datalex0/Toys-and-Co/blob/d244c679e9142e6f68c13bf6793dd143dfe50207/SRC/Pr%C3%A9sentation%20finale.pdf)
+ -   [La présentation convertie au format pdf](https://github.com/Datalex0/Toys-and-Co/blob/d244c679e9142e6f68c13bf6793dd143dfe50207/SRC/Pr%C3%A9sentation%20finale.pdf)
