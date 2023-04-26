@@ -1,7 +1,9 @@
 # Toys and Co
 
 Réalisation d'un Tableau de Bord interactif pour l'entreprise fictive Toys&Co
+
 mars 2023
+
 Durée du projet : 3 semaines
 
 Tâches :
