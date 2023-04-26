@@ -4,7 +4,7 @@
 
 <ins>Durée du projet :</ins> 3 semaines
 
-<ins>Tâches :</ins>  
+### <ins>Tâches</ins> :  
   
 1. Exploitation d'une base de données avec MySQL
 2. Utilisations de jointures, de vues et de sous-requêtes en SQL
@@ -12,7 +12,7 @@
 4. Analyse des besoins du client, réponse par des graphiques interactifs et proposition de nouveaux indicateurs pour remplacer certains KPIs non réalisables avec la base de données actuelle.  
   
     
-<ins>Compétences et outils utilisés :</ins>  
+### <ins>Compétences et outils utilisés</ins> :  
   
 * :briefcase: Méthodes agiles  
   
@@ -24,10 +24,9 @@
   * Tableau
   * Microsoft Power BI
   
-```    
-Vous trouverez :  
+    
+### <ins>Vous trouverez</ins> :
   
  -   Les Requêtes SQL effectuées   
  -   Les Visualisations Power BI et tableau  
- -   La présentation au format pdf
-```
+ -   [La présentation au format pdf](https://github.com/Datalex0/Toys-and-Co/blob/d244c679e9142e6f68c13bf6793dd143dfe50207/SRC/Pr%C3%A9sentation%20finale.pdf)
