@@ -1,5 +1,7 @@
 # Toys and Co
 
+![logo Platinum Data](SRC/logo.png)
+
 ## Réalisation d'un Tableau de Bord interactif pour l'entreprise fictive Toys&Co
 
 <ins>Durée du projet :</ins> 3 semaines
